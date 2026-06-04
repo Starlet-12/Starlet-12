@@ -17,7 +17,7 @@
 
 <!-- SOCIAL BADGES -->
 [![X (Twitter)](https://img.shields.io/badge/@StarletFrank-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/StarletFrank)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/starlet-frank-0ab04a387)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklyn-chukwuemeka-0ab04a387/)
 [![Telegram](https://img.shields.io/badge/@Starl__ette-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Starl_ette)
 [![Discord](https://img.shields.io/badge/@Starlet12-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frankstarlet12@gmail.com)
@@ -189,44 +189,32 @@ Intelligence without action is noise. I transform raw threat data into structure
 
 ## 🚀 Current Focus — 2026
 
-```yaml
-Mission:
-  title: "Building at the Frontier of AI Creativity & Cyber Defense"
-  status: Active
+<div align="center">
 
-Active Projects:
-  - name: "AI Video Production Portfolio — Phase II"
-    description: >
-      Scaling cinematic AI content across multiple brand verticals,
-      developing reusable character-consistent animation pipelines.
-    status: In Progress 🔄
+**`🎯 Mission: Building at the Frontier of AI Creativity & Cyber Defense`**
 
-  - name: "Cybersecurity Research Documentation"
-    description: >
-      Publishing structured threat intelligence reports on
-      Web3 fraud ecosystems and social engineering pipelines
-      active across Telegram and X.
-    status: In Progress 🔄
+</div>
 
-  - name: "Google Cybersecurity Certificate"
-    description: >
-      Completing formal certification via Coursera to reinforce
-      foundational security engineering principles.
-    status: Active 📚
+<br/>
 
-  - name: "AI-Powered Security Automation Scripts"
-    description: >
-      Building Python tooling that automates OSINT collection,
-      phishing domain detection, and threat reporting workflows.
-    status: Research Phase 🔬
+### 🔄 Active Projects
 
-2026 Goals:
-  - Land a senior AI Creative or Cybersecurity Analyst role at a forward-thinking org
-  - Publish open-source threat intelligence reports on Web3 scam infrastructure
-  - Build a recognized AI video portfolio with 10+ high-production pieces
-  - Earn CEH or CompTIA Security+ certification
-  - Launch a newsletter at the intersection of AI creativity and cyber threat landscape
-```
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🎬 **AI Video Production Portfolio — Phase II** | Scaling cinematic AI content across multiple brand verticals, developing reusable character-consistent animation pipelines | `In Progress` |
+| 🔍 **Cybersecurity Research Documentation** | Publishing structured threat intelligence reports on Web3 fraud ecosystems and social engineering pipelines active across Telegram and X | `In Progress` |
+| 📚 **Google Cybersecurity Certificate** | Completing formal certification via Coursera to reinforce foundational security engineering principles | `Active` |
+| 🤖 **AI-Powered Security Automation Scripts** | Building Python tooling that automates OSINT collection, phishing domain detection, and threat reporting workflows | `Research Phase` |
+
+<br/>
+
+### 🏁 2026 Goals
+
+- 🎯 Land a senior AI Creative or Cybersecurity Analyst role at a forward-thinking organization
+- 📄 Publish open-source threat intelligence reports on Web3 scam infrastructure
+- 🎬 Build a recognized AI video portfolio with 10+ high-production pieces
+- 🛡️ Earn CEH or CompTIA Security+ certification
+- 📰 Launch a newsletter at the intersection of AI creativity and the cyber threat landscape
 
 ---
 
@@ -320,7 +308,7 @@ I'm actively open to opportunities in **AI Creative Production**, **Cybersecurit
 <br/>
 
 [![X](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/StarletFrank)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/starlet-frank-0ab04a387)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklyn-chukwuemeka-0ab04a387/)
 [![Telegram](https://img.shields.io/badge/Message_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Starl_ette)
 [![Discord](https://img.shields.io/badge/Discord_@Starlet12-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frankstarlet12@gmail.com)
